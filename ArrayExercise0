@@ -1,0 +1,5 @@
+public class ArrayExercise0{
+  public int calulateSum(int[] a) {
+    // your code goes here
+  }
+}
